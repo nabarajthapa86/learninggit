@@ -1,3 +1,5 @@
 MY name is something and I love to do something.
 This is another line that I have addeed in something file.
 Chandra
+Manoj
+My name is Chandra Kumar Shrestha.
